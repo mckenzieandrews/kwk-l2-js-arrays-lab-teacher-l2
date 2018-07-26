@@ -68,3 +68,4 @@ Remember the workflow:
 If you open up `test/indexTest.js`, you will see that in the `beforeEach` block
 we initialize our `driver` array values so that you can focus on what really
 matters — understanding how to manipulate arrays in JavaScript.
+
